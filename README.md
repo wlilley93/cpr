@@ -15,3 +15,15 @@
     4.  ensuring that it is dealt with expeditiously and fairly;
     5. allotting to it an appropriate share of the court’s resources, while taking into account the need to allot resources to other        cases; and
     6.  enforcing compliance with rules, practice directions and orders.
+
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+2. Cat
+    1. Siberian
+    2. Siamese
+
+I think this is as close as you can get; Markdown doesn't support the "1.1.1" type list you wanted
