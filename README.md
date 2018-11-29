@@ -2,9 +2,9 @@
 
 ### 1.1	The Overriding Objective
 
-1	These Rules are a new procedural code with the overriding objective of enabling the court to deal with cases justly and at proportionate cost.
+1.  These Rules are a new procedural code with the overriding objective of enabling the court to deal with cases justly and at proportionate cost.
 
-2	Dealing with a case justly and at proportionate cost includes, so far as is practicable;
+2.  Dealing with a case justly and at proportionate cost includes, so far as is practicable;
     a.  ensuring that the parties are on an equal footing;
     b.  saving expense;
     c.  dealing with the case in ways which are proportionate –
