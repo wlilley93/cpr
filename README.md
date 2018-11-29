@@ -6,7 +6,7 @@
 
 2	Dealing with a case justly and at proportionate cost includes, so far as is practicable;
     a.  ensuring that the parties are on an equal footing;
-    2.  saving expense;
+    b.  saving expense;
     c.  dealing with the case in ways which are proportionate –
         i.      to the amount of money involved;
         ii.     to the importance of the case;
